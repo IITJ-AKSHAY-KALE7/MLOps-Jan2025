@@ -1,3 +1,4 @@
-Machine Learning is a subset of AI.
-Supervised learning uses labeled data.
-Unsupervised learning finds hidden patterns in data.
+The definition of Deep learning is that it is the branch of machine learning that is based on artificial neural network architecture. 
+An artificial neural network or ANN uses layers of interconnected nodes called neurons.
+Neurons works together to process and learn from the input data.
+Deep learning AI can be used for supervised, unsupervised as well as reinforcement machine learning.
