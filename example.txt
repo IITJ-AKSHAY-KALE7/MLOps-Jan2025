@@ -1,3 +1,4 @@
 Machine Learning is a subset of AI.
 Supervised learning uses labeled data.
 Unsupervised learning finds hidden patterns in data. Deep learning models are a type of neural network. ML algorithms improve over time with more data.
+Machine learning’s impact extends to autonomous vehicles, drones, and robots, enhancing their adaptability in dynamic environments.
